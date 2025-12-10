@@ -1,0 +1,140 @@
+Which button makes letters uppercase/lowercase?
+Shift
+What process runs when a computer starts?
+POST
+Software used by end users?
+Application Software
+Printer output quality unit?
+DPI
+Switching device of fifth generation computer?
+VLSI
+Unit KIPS measures?
+Processor speed
+DOS stands for?
+Disk Operating System
+Joystick is used for?
+Gaming
+Melissa virus was an?
+E-mail virus
+COBOL stands for?
+Common Business Oriented Language
+Running many apps at once is called?
+Multitasking
+Key for Save-As?
+F12
+NOS stands for?
+Network Operating System
+A modem connects to?
+Telephone line
+Monitor refresh rate unit?
+Hertz
+Main component of 1st generation computers?
+Vacuum tubes
+Father of Computer Science?
+Charles Babbage
+Where does most processing happen?
+CPU
+Type of computer with discrete signals?
+Digital Computer
+A computer cannot boot without?
+Operating System
+CD-ROM storage?
+680 MB
+DMA stands for?
+Direct Memory Access
+LAN stands for?
+Local Area Network
+ASCII stands for?
+American Standard Code for Information Interchange
+Scientific name of computer?
+Sillico sapiens
+Network arrangement?
+Topology
+CPU and memory are on?
+Motherboard
+IBM founder?
+Thomas J. Watson
+Screen image is made of?
+Pixels
+MAN stands for?
+Metropolitan Area Network
+Program converting whole program at once?
+Compiler
+Microsoft founded in?
+1975
+Light pen and joystick are?
+Input devices
+Half byte?
+Nibble
+SMPS stands for?
+Switched Mode Power Supply
+Non-volatile static memory?
+ROM
+Unwanted bulk email?
+Spam
+BIOS stands for?
+Basic Input Output System
+Father of C language?
+Dennis Ritchie
+RAM acts as?
+Waiting room
+DVD is an?
+Optical disc
+Access control tool?
+Password
+RISC stands for?
+Reduced Instruction Set Computer
+1 million bytes?
+Megabyte
+XML stands for?
+Extensible Markup Language
+FORTRAN means?
+Formula Translation
+Executes line by line?
+Interpreter
+Converts whole program?
+Compiler
+EEPROM stands for?
+Electronic Erasable Programmable ROM
+First electronic computer?
+ENIAC
+Low-level language?
+Assembly
+First web browser?
+Mosaic
+First page of website?
+Homepage
+IBM stands for?
+International Business Machines
+Connect distant LANs?
+WAN
+Transfer file between computers?
+File transfer
+MICR stands for?
+Magnetic Ink Character Reader
+Scrambling of data?
+Encryption
+First programming language?
+Machine Language
+HTTP is a?
+Request/Response protocol
+Magnetic disk is?
+Secondary memory
+OSI stands for?
+Open System Interconnection
+Excel 2007 extension?
+.xlsx
+Identity crime?
+Identity theft
+Space between text lines?
+Line spacing
+Reboot command?
+Ctrl+Alt+Del
+Fixing program errors?
+Debugging
+BCD stands for?
+Binary Coded Decimal
+Virus that self-reproduces?
+Worm
+Select whole document?
+Ctrl+A
