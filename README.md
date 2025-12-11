@@ -93,13 +93,3 @@ Allow topic-based filtering
 
 Save exam with numbering and formatting
 
-Add answer key generation
-
-If you want, I can also generate:
-✅ professor_assistant.py
-✅ question_bank.txt (short or long version)
-✅ GitHub folder structure
-
-Just tell me!
-
-Is this conversation helpful so far?
